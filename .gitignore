@@ -1,0 +1,23 @@
+# Local development
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+
+# Personal files and exported backups
+backups/
+uploads/
+private/
+tmp/
+*.pdf
+*备份*.json
+*.backup.json
+.env
+.env.*
+!.env.example
